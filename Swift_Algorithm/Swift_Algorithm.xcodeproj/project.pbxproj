@@ -6,10 +6,6 @@
 	objectVersion = 55;
 	objects = {
 
-/* Begin PBXBuildFile section */
-		EF8624FE27F8796100D6F27A /* main.swift in Sources */ = {isa = PBXBuildFile; fileRef = EF8624FD27F8796100D6F27A /* main.swift */; };
-/* End PBXBuildFile section */
-
 /* Begin PBXCopyFilesBuildPhase section */
 		EF8624F827F8796100D6F27A /* CopyFiles */ = {
 			isa = PBXCopyFilesBuildPhase;
@@ -24,7 +20,7 @@
 
 /* Begin PBXFileReference section */
 		EF8624FA27F8796100D6F27A /* Swift_Algorithm */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = Swift_Algorithm; sourceTree = BUILT_PRODUCTS_DIR; };
-		EF8624FD27F8796100D6F27A /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
+		EF8624FD27F8796100D6F27A /* 1000.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = 1000.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -57,7 +53,7 @@
 		EF8624FC27F8796100D6F27A /* Swift_Algorithm */ = {
 			isa = PBXGroup;
 			children = (
-				EF8624FD27F8796100D6F27A /* main.swift */,
+				EF8624FD27F8796100D6F27A /* 1000.swift */,
 			);
 			path = Swift_Algorithm;
 			sourceTree = "<group>";
@@ -120,7 +116,6 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				EF8624FE27F8796100D6F27A /* main.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
